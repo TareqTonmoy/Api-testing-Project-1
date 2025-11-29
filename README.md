@@ -1,4 +1,4 @@
-# API Testing Project (Postman)
+# API Testing Project 1 (Postman)
 
 ## Tools
 - Postman
